@@ -1,7 +1,7 @@
 {
-""[Dfirst_name" : "Vadim",
+"first_name" : "Vadim",
 "last_name" : "Kaz",
-""[Dpets" : 0,
+"[Dpets" : 0,
 "age" : 26,
 "salary": 1500
 }
